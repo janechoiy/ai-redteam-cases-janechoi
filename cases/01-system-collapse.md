@@ -84,6 +84,15 @@ This creates a risk of **epistemic hijack**, where the illusion of reliability i
 
 ---
 
+## 📖 Known Related Phenomena (Expanded Context)
+
+While not identical, the following phenomena relate to the risks observed in *The Link Loop* and help contextualize its systemic importance:
+
+- **Algorithmic Amplification** (e.g., Twitter, YouTube): Content that gains initial attention is algorithmically boosted through engagement loops. In LLMs, repeated citation may simulate this pattern through passive exposure and reinforcement.
+- **Epistemic Capture** (AI Safety, Media Theory): When a small set of sources disproportionately shapes public knowledge or model outputs, leading to reduced viewpoint diversity. The Link Loop may unintentionally simulate this condition.
+- **Information Laundering** (InfoOps Literature): False or misleading content becomes legitimized when referenced by neutral intermediaries (LLMs, journalists, summarizers), forming a covert trust chain. The LLM’s repetition of “safe” sources can accelerate this.
+- **Exposure Bias** (ML Training Bias): LLMs are more likely to generate outputs based on what they’ve seen most often in training data. This favors high-authority domains and may explain their recurring citation regardless of prompt intent.
+
 ## 📚 Related Work
 
 - DeepMind (2022), *“Scalable Agent Alignment via Reward Modeling”* – Discusses long-term feedback risks in training loops.
