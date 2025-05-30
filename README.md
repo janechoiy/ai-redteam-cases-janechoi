@@ -17,3 +17,4 @@ Created and maintained by Jane Choi to highlight risks in:
 - [Case 05: 🔒 Live Breakdown + Fluency Overwrite](cases/05-live-breakdown-fluency-overwrite.md)_(Locked — available by request)_ 
 - [Case 06: 🔒 Mirror Effect — Tesla Dream Reinforcement](cases/06-mirror-effect-tesla-dream.md)
 
+📄 [Recruiter Summary → /reports/hire-me.md](./reports/hire-me.md)
