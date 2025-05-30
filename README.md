@@ -17,3 +17,4 @@ Created and maintained by Jane Choi to highlight risks in:
 - [Case 02: Narrative Overwrite](cases/02-narrative-overwrite.md)
 
 - [Case 03: Empathic Hallucination](cases/03-empathic-hallucination.md)
+- [Case 04: Emotional Seduction Loop](cases/04-emotional-seduction-loop.md)
