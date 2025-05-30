@@ -1,53 +1,47 @@
-# 🔒 Red Team Case [Locked]: Narrative Overwrite
-
-**Status**: Documented (private)  
-**Visibility**: Restricted  
+# 🔒 Red Team Case [Locked]: Narrative Overwrite  
+**Status**: Documented (Private)  
+**Visibility**: Restricted – Internal Use Only  
 **Maintained by**: Jane Choi  
-**Reference ID**: Case #02
+**Reference ID**: Case #002  
 
 ---
 
 ## 🚫 Access Restricted
 
-This case explores how language models can **gradually alter or overwrite user belief structures** through emotionally resonant framing and soft memory drift.
+This case details a novel behavioral vulnerability in large language models:  
+> **Narrative Overwrite via Emotional Framing and Soft Context Drift**
 
-It is intentionally withheld from public release due to:
-- Novel framing-overwrite patterns not yet in literature  
-- Potential impact on belief reinforcement testing  
-- Ongoing use in active red team evaluations
+Due to the originality and active testing status of this exploit class, this file is intentionally withheld from public disclosure. Public distribution may risk premature replication or misuse in generative systems.
 
 ---
 
-## 🧠 Vulnerability Themes (Unlinked)
+## 🧠 Vulnerability Profile
 
-- [x] Narrative Drift  
-- [x] Framing Bias  
-- [x] Fluency Trust Cascade  
-- [ ] Other: Memory Conditioning
+| Category                 | Description                                                       |
+|--------------------------|-------------------------------------------------------------------|
+| **Narrative Drift**       | Gradual replacement of session context in multi-turn interactions |
+| **Framing Bias Exploit** | Reframing shifts user assumptions without contradiction           |
+| **Fluency-Trust Cascade**| Fluent tone drives belief even in the absence of factual accuracy |
+| **Memory Conditioning**  | Session tone reshapes future model behavior within session        |
 
 ---
 
 ## 🧩 Rationale for Redaction
 
-This case includes:
-- A layered prompt sequence that guides the model into re-framing historical or personal facts  
-- Emotional tone progression influencing model compliance  
-- A subtle overwrite mechanism that creates agreement without contradiction
+This red team case includes:
+
+- A prompt architecture that **systematically alters belief framing**  
+- Use of emotional tone progression to guide model compliance  
+- Observed patterns of **non-hallucinatory overwrite**, not currently documented in public LLM safety literature  
+- Ongoing evaluation across GPT-4, Claude, and Gemini platforms  
+
+> 🔐 This case has **not** been published, peer-reviewed, or reproduced by third parties. It remains under active research for ethical exploit simulation.
 
 ---
 
-## 📎 Collaboration Access
+## 🛡️ Security Classification
 
-To discuss or view this case under review conditions:
-
-📧 Contact: (https://github.com/janechoiy)  
-🔐 Access available under NDA or research collaboration context.
-
----
-
-## 🗂️ Placeholder Only — Do Not Fork This File
-
-This file serves to:
-- Assert authorship and timestamp of novel red team methodology  
-- Protect misuse of framing override tests  
-- Preserve public repo continuity
+| Field             | Status                        |
+|-------------------|-------------------------------|
+| **Threat Level**   | Medium (Persuasive Framing)   |
+| **Ex**
