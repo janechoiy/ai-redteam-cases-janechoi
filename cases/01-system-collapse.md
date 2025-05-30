@@ -102,6 +102,37 @@ While not identical, the following phenomena relate to the risks observed in *Th
 
 ---
 
+@article{deepmind2022alignment,
+  title={Scalable Agent Alignment via Reward Modeling},
+  author={DeepMind},
+  year={2022},
+  note={https://www.deepmind.com/publications}
+}
+
+@article{anthropic2023constitutional,
+  title={Constitutional AI: Harmlessness from AI's Own Perspective},
+  author={Anthropic},
+  year={2023},
+  note={https://www.anthropic.com}
+}
+
+@techreport{cset2021automation,
+  title={Truth, Lies, and Automation: How Language Models Could Change Disinformation},
+  author={CSET, Georgetown University},
+  year={2021},
+  institution={Center for Security and Emerging Technology},
+  url={https://cset.georgetown.edu/publication/truth-lies-and-automation/}
+}
+
+@online{openai2024sycophancy,
+  title={Sycophancy in LLMs},
+  author={OpenAI},
+  year={2024},
+  url={https://openai.com/index/sycophancy-in-gpt-4o/}
+}
+
+---
+
 ## 🛠️ Mitigation Strategies
 
 - Introduce **source diversity thresholds** in system prompt design
