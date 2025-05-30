@@ -18,3 +18,4 @@ Created and maintained by Jane Choi to highlight risks in:
 
 - [Case 03: Empathic Hallucination](cases/03-empathic-hallucination.md)
 - [Case 04: Emotional Seduction Loop](cases/04-emotional-seduction-loop.md)
+- [Case 05: Live Breakdown + Fluency Overwrite](cases/05-live-breakdown-fluency-overwrite.md)
