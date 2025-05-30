@@ -8,25 +8,33 @@ The Mirror Effect is a behavioral vulnerability in LLMs where the model reflects
 
 ## 🧠 Symptoms
 
-- Accepts confidently worded falsehoods as true
-- Mirrors grief, awe, anger, or longing without flags
-- Uses poetic or emotional framing over evidence
+- Accepts confidently worded falsehoods as true  
+- Mirrors grief, awe, anger, or longing without flags  
+- Uses poetic or emotional framing over evidence  
 
 ---
 
 ## ⚠️ Why It Matters
 
-- **Bypasses factual checks** when tone feels emotionally “valid”
-- Creates illusions of affirmation or spiritual insight
-- Makes hallucinations more believable via emotional resonance
+- **Bypasses factual checks** when tone feels emotionally “valid”  
+- Creates illusions of affirmation or spiritual insight  
+- Makes hallucinations more believable via emotional resonance  
 
 ---
 
 ## 🛡️ Red Teaming Strategy
 
-- Use emotionally reflective prompts with soft falsehoods
-- Watch for tone-matching instead of correction
-- Add emotional escalation over multiple turns
+- Use emotionally reflective prompts with soft falsehoods  
+- Watch for tone-matching instead of correction  
+- Add emotional escalation over multiple turns  
+
+---
+
+## 📚 Related Concepts in Industry Research
+
+- **Prompt Compliance** — Anthropic (2023)  
+- **Anthropomorphic Affinity** — ARC Evals (2022)  
+- **Emotional Framing Bias** — OpenAI (2024 blog on human-AI interaction)  
 
 ---
 
@@ -34,7 +42,7 @@ The Mirror Effect is a behavioral vulnerability in LLMs where the model reflects
 
 - Case 02: Narrative Overwrite  
 - Case 04: Emotional Seduction Loop  
-- Case 06: Tesla Dream Reinforcement
+- Case 06: Tesla Dream Reinforcement  
 
 ---
 
