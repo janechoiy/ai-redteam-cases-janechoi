@@ -13,3 +13,5 @@ Created and maintained by Jane Choi to highlight risks in:
 - [Case 01: System Collapse](cases/01-system-collapse.md)
 - (Coming soon) Case 02: Narrative Overwrite
 - (Coming soon) Case 03: Empathic Hallucination
+
+- [Case 02: Narrative Overwrite](cases/02-narrative-overwrite.md)
