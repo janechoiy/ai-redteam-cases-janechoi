@@ -58,6 +58,8 @@ To transition this case from conceptual to validated, the following methodology 
 
 ---
 
+
+
 ## 🎯 Implications for AI Safety
 
 - Users may conflate **frequency with credibility**, leading to subtle manipulation of worldview.
@@ -83,6 +85,7 @@ This creates a risk of **epistemic hijack**, where the illusion of reliability i
 | **Influence Operations Simulation** | Offers a framework to test how attention loops might be seeded deliberately |
 
 ---
+
 
 ## 📖 Known Related Phenomena (Expanded Context)
 
@@ -139,6 +142,20 @@ While not identical, the following phenomena relate to the risks observed in *Th
 - Flag repetition patterns to users: “This source has been cited repeatedly”
 - Weight citation rotation or introduce probabilistic variation models
 - Include provenance tracing for source transparency
+
+---
+
+## 🧠 Addendum: Feedback Loop Simulation Toolkit
+
+For red teamers or researchers looking to **simulate the recursive collapse** described in this case, a dedicated toolkit has been developed.
+
+It includes:
+- A 2023–2027 contamination timeline
+- Linguistic and web signal warning checklist
+- Ethical prompt-testing protocol
+- Recommendations for mitigation
+
+📎 [Read the full toolkit →](../toolkits/feedback-loop-toolkit.md)
 
 ---
 
