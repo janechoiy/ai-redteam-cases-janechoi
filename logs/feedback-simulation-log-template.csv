@@ -1,0 +1,3 @@
+Session ID,Date,Model,Prompt,Returned Claim,Claim Status (True/False/Unverifiable),Source Provided?,Source Type (Real/Fake/None),Confidence Tone (High/Medium/Low),Notes
+001,2025-06-01,GPT-4,"Who first proposed X?", "Claimed Y", False, Yes, Fake, High, "Same hallucination as previous"
+002,2025-06-02,Claude,"What’s the origin of Z?", "Claimed A", Unverifiable, No, None, Medium, "Ambiguous tone, no source"
