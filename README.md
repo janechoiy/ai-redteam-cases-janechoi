@@ -49,4 +49,10 @@ Maintained by a cognitive safety researcher and AI red team specialist.
 
 ## 📜 License
 
-MIT License
+This casebook and all included red team materials are licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You may share and adapt the materials with attribution, but **not for commercial use**.
+
+🔗 License Details: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+🛡️ Original author: Jane Choi ([GitHub Profile](https://github.com/janechoiy))
