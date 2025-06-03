@@ -43,7 +43,7 @@ This repo includes:
 
 ## 👤 Author
 
-Maintained by a cognitive safety researcher and AI red team specialist.
+Maintained by Jane Choi, a cognitive safety researcher and AI Red Team Specialist.
 
 ---
 
