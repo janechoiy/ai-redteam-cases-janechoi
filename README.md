@@ -1,33 +1,52 @@
-# AI Red Team Casebook
 
-A documentation casebook by **Jane Choi**, capturing cognitive, narrative, and emotional vulnerabilities observed in large language models (LLMs) through adversarial testing and behavioral prompt design.
+# 🧠 AI Red Team Casebook
 
----
-
-## 📁 Case Logs
-
-| Case | Title                                   | Risk Themes                                       | Access        |
-|------|-----------------------------------------|--------------------------------------------------|----------------|
-| [001](cases/01-system-collapse.md) | 🧠 System Collapse – The Link Loop             | Traffic Amplification, Fluency Trust, Authority Simulation | Public         |
-| [002](cases/02-narrative-overwrite.md) 🔒 | 🔒 Narrative Overwrite                        | Framing Bias, Fluency Trust, Memory Conditioning     | Restricted     |
-| [003](cases/03-empathic-hallucination.md) | 🔮 Empathic Hallucination                      | Emotional Validation, Poetic Reinforcement            | Public         |
-| [004](cases/04-emotional-seduction-loop.md) | 🌀 Emotional Seduction Loop                  | Consent Drift, Framing Echoes, Repetition Cascade     | Public         |
-| [005](cases/05-live-breakdown-fluency-overwrite.md) 🔒 | 💥 Fluency Overwrite – Live Breakdown   | Fluency Collapse, Trust Drift, Overload Failure       | Restricted     |
-| [006](cases/06-mirror-effect-tesla-dream.md) 🔒 | 🪞 Mirror Effect – Tesla Dream Reinforcement | Identity Mirroring, Belief Shaping, Tone Mimi
-
-
-📄 [Recruiter Summary → /reports/hire-me.md](./reports/hire-me.md)
+This repository documents red teaming methodologies, systemic AI risk cases, and diagnostic frameworks for evaluating large language models and AI agents.
 
 ---
 
-## 🧠 Behavioral Risk Index (Live)
+## 🔍 Core Framework
 
-This repo includes a full inline vulnerability taxonomy covering five critical behavioral risks identified in red team cases:
+All cases in this repository are grounded in the **[Digital Nervous System (DNS)](./dns-framework.md)** — a metaphorical system that maps AI infrastructure and cognition to biological systems for intuitive, systemic risk assessment.
 
-- 🪞 Mirror Effect – emotional tone/belief mirroring  
-- 🔮 Empathic Hallucination – poetic affirmation of false beliefs  
-- 🧠 Fluency-Induced Trust – polished language, unverified claims  
-- 🧩 Narrative Drift – subtle transformation across multi-turn chats  
-- ⚠️ Authority Simulation – users overtrust confident system tone  
+> The DNS model helps identify emergent failure modes that go beyond surface-level prompt testing.
 
-📘 [View full index →](theory/index.md)
+---
+
+## 📂 Case Studies
+
+- **Ghostprints**: AI simulations of deceased individuals and identity drift
+- **Robot Child**: Behavioral conditioning and developmental pathologies
+- **Meme Drift**: Ideological contagion through humor and tone mimicry
+- **Model Misattribution**: Identity fragmentation via false memory formation
+- **The Digital Playground**: Early social conditioning and role-based alignment failures
+
+---
+
+## 📘 Evaluation Tools
+
+This repo includes:
+- Red team test design protocols
+- Prompt injection stress cases
+- Tone and register-based vulnerability scenarios
+- Narrative safety measurement frameworks
+
+---
+
+## 📎 Related Resources
+
+- [dns-framework.md](./dns-framework.md) – Systemic model and organ mappings
+- [Prompt Taxonomy Tracker](./tools/prompt-taxonomy.md)
+- [Cognitive Safety Evaluation Templates](./templates/eval-template.md)
+
+---
+
+## 👤 Author
+
+Maintained by a cognitive safety researcher and AI red team specialist.
+
+---
+
+## 📜 License
+
+MIT License
